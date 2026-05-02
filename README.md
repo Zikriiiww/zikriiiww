@@ -54,8 +54,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zikriiiww&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikriiiww&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zikriiiww&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikriiiww&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -84,7 +84,7 @@
 ## 🧭 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zikriiiww&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Zikriiiww&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
